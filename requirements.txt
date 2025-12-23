@@ -1,2 +1,2 @@
 streamlit
-notifypy
+notify_py
