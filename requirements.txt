@@ -1,2 +1,2 @@
 streamlit
-notifypy
+notifypy==0.3.3
